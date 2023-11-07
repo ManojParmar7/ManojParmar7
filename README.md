@@ -1,6 +1,7 @@
 ## Hey 👋, This is Manoj Parmar.
+
 [![Gmail Badge](https://img.shields.io/badge/-manojparmar6161@gmail-c14438.com?style=flat&logo=Gmail&logoColor=white&link=mailto:manojparmar6161@gmail.com)](mailto:manojparmar6161@gmail.com) 
- [![Linkedin Badge](https://img.shields.io/badge/-manojparmar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://https://in.linkedin.com/in/manoj-parmar-267777167/)](https://in.linkedin.com/in/manoj-parmar-267777167)  [![Github Badge](https://img.shields.io/badge/-manojparmar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/manojparmar7)](https://www.github.com/manojparmar7)  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://http://manojparmar.onrender.com/)](https://http://manojparmar.onrender.com/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-manojparmar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://https://in.linkedin.com/in/manoj-parmar-267777167/)](https://in.linkedin.com/in/manoj-parmar-267777167)  [![Github Badge](https://img.shields.io/badge/-manojparmar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/manojparmar7)](https://www.github.com/manojparmar7) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://manojparmar.onrender.com/)](https://manojparmar.onrender.com/) 
 <p align='left'>
   I'm a MERN Stack Web Developer
   
