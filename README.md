@@ -1,12 +1,12 @@
 ## Hey 👋, This is Manoj Parmar.
-[![Gmail Badge](https://img.shields.io/badge/-manojparmar6161@gmail.com?style=flat&logo=Gmail&logoColor=white&link=mailto:manojparmar6161@gmail.com)](mailto:manojparmar6161@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-manojparmar6161@gmail-c14438.com?style=flat&logo=Gmail&logoColor=white&link=mailto:manojparmar6161@gmail.com)](mailto:manojparmar6161@gmail.com) 
  [![Linkedin Badge](https://img.shields.io/badge/-manojparmar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://https://in.linkedin.com/in/manoj-parmar-267777167/)](https://in.linkedin.com/in/manoj-parmar-267777167)  [![Github Badge](https://img.shields.io/badge/-manojparmar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/manojparmar7)](https://www.github.com/manojparmar7)  [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://http://manojparmar.onrender.com/)](https://http://manojparmar.onrender.com/) 
 <p align='left'>
   I'm a MERN Stack Web Developer
   
   ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
   
-  - 🔭 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, MySql, Sequelize. </b> 
+  - 🔭 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, MySql, sequelize. </b> 
   - 🌱 I’m currently learning <b>nextjs, veujs.</b>
   - 👯 I’m looking to collaborate on web development.
   - 📫 How to reach me: <a href='https://in.linkedin.com/in/manoj-parmar-267777167/'>LinkedIn</a> or <a href="mailto:manojparmar6161@gmail.com">Gmail</a>
