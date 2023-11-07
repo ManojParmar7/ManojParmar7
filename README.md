@@ -5,7 +5,8 @@
 <p align='left'>
   I'm a MERN Stack Web Developer
   
-  ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
+  ![68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966](https://github.com/ManojParmar7/ManojParmar7/assets/70365057/e78cf7c8-5226-4a02-a164-525e21a05dee)
+
   
   - 🔭 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, MySql, sequelize. </b> 
   - 🌱 I’m currently learning <b>nextjs, veujs.</b>
@@ -13,11 +14,12 @@
   - 📫 How to reach me: <a href='https://in.linkedin.com/in/manoj-parmar-267777167/'>LinkedIn</a> or <a href="mailto:manojparmar6161@gmail.com">Gmail</a>
 
   
-
-![1297046_code_compilator_css_design_sass_icon](https://user-images.githubusercontent.com/53113741/209101392-9655b106-c016-4ae6-968d-6a28e30a4f02.png)
 ![317756_badge_css_css3_achievement_award_icon](https://user-images.githubusercontent.com/53113741/209101395-0aff894c-cca8-45d7-8d60-0f99f1a89a91.png)
 ![3069649_circle_html5_programming_round icon_icon](https://user-images.githubusercontent.com/53113741/209101398-595faf3c-4b93-40a6-8f1f-12913b894980.png)
 ![3069651_circle_js_node_node js_programming_icon](https://user-images.githubusercontent.com/53113741/209101401-ff37045b-cc07-4feb-a7af-3a34cba69bb4.png)
 ![1174949_js_react js_logo_react_react native_icon](https://user-images.githubusercontent.com/53113741/209101405-691d8ef3-82ec-4bc3-b8fd-ad8bffe964c5.png)
 ![1012822_code_development_logo_mongodb_programming_icon](https://user-images.githubusercontent.com/53113741/209101406-af9ee716-ab73-44e6-a5ce-febe7c04d1e1.png)
 ![652581_code_command_develop_javascript_language_icon](https://user-images.githubusercontent.com/53113741/209101408-bd340569-8e67-4bf4-a273-22147a3c9e66.png)
+![python](https://github.com/ManojParmar7/ManojParmar7/assets/70365057/9cee07ef-2c26-44c9-b029-9509f12ebe3f)
+![mysql](https://github.com/ManojParmar7/ManojParmar7/assets/70365057/18851b5e-5760-467c-9044-92c218db7422)
+![seq](https://github.com/ManojParmar7/ManojParmar7/assets/70365057/32af72d0-31b3-41cc-ad90-6eafba4317e0)
