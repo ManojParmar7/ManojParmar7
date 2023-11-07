@@ -5,6 +5,7 @@
 <p align='left'>
   I'm a MERN Stack Web Developer
   
+  ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
 
   
   - 🔭 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, MySql, sequelize. </b> 
