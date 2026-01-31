@@ -8,8 +8,7 @@
   ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
 
   
-  - 🔭 I’m currently working on <b> ReactJS, NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, MySql, sequelize. Graphql </b> 
-  - 🌱 I’m currently learning <b>nextjs, veujs.</b>
+  - 🔭 I’m currently working on <b> Javascript , Python, Typescript,ReactJS,Next js NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, MySql, sequelize. Graphql </>
   - 👯 I’m looking to collaborate on web development.
   - 📫 How to reach me: <a href='https://in.linkedin.com/in/manoj-parmar-267777167/'>LinkedIn</a> or <a href="mailto:manojparmar6161@gmail.com">Gmail</a>
 
