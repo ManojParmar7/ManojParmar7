@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Manoj Parmar
 
-### Senior Full Stack Developer | Cloud & DevOps | AI & Automation 🚀
+### Senior Full Stack Developer | Cloud & DevOps | AI Enthusiast 🚀
 
-Full Stack Developer with **5+ years of experience** building scalable web applications, robust backend systems, REST APIs, and reusable UI component libraries. Passionate about software architecture, cloud technologies, automation, and AI-powered solutions.
+Full Stack Developer with **5+ years of experience** building scalable web applications, robust backend systems, REST APIs, and reusable UI component libraries. Passionate about modern software architecture, cloud technologies, automation, and AI-powered solutions.
 
 - 💻 **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite
 - ⚙️ **Backend:** Node.js, Express.js, Python, REST APIs, GraphQL
@@ -36,7 +36,7 @@ Full Stack Developer with **5+ years of experience** building scalable web appli
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
@@ -69,28 +69,34 @@ Full Stack Developer with **5+ years of experience** building scalable web appli
 
 **[Commerce UI — NPM Component Library](https://www.npmjs.com/package/@manojparmar/commerce-ui)**
 
-A reusable UI component library built for modern e-commerce applications.
+A reusable UI component library for modern e-commerce applications.
 
-- 📦 [Explore NPM Package](https://www.npmjs.com/package/@manojparmar/commerce-ui)
+- 📦 [View NPM Package](https://www.npmjs.com/package/@manojparmar/commerce-ui)
 - 📚 [Live Storybook Demo](https://commerce-ui.onrender.com/)
 
 ---
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojparmar&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManojParmar7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojParmar7&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojparmar&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ManojParmar7&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 **Email:** [manojparmar6161@gmail.com](mailto:manojparmar6161@gmail.com)
+- 🌐 **Portfolio:** [manojparmar.com](https://manojparmar.com)
+- 💼 **LinkedIn:** [Manoj Parmar](https://www.linkedin.com/in/manoj-parmar-267777167/)
 - 📦 **NPM:** [@manojparmar](https://www.npmjs.com/~manojparmar)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL
-- 🌐 **Portfolio:** Add your live portfolio URL
+- 🐙 **GitHub:** [ManojParmar7](https://github.com/ManojParmar7)
+- 📧 **Email:** [manojparmar6161@gmail.com](mailto:manojparmar6161@gmail.com)
 
 ---
 
-⭐ *Building scalable software, exploring AI-driven development, and creating tools that empower developers.*
+⭐ *Building scalable applications, exploring AI-driven development, and creating tools that empower developers.*
