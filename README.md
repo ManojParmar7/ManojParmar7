@@ -87,17 +87,17 @@ A reusable UI component library for modern e-commerce applications.
   <img src="https://streak-stats.demolab.com?user=ManojParmar7&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManojParmar7&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+  <a href="https://github.com/ManojParmar7">
+    <img src="https://github-profile-trophy.vercel.app/?username=ManojParmar7" alt="GitHub Trophies" width="100%" />
+  </a>
 </p>
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojParmar7&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManojParmar7)](https://github.com/ManojParmar7)
 
 ### 📁 My Repositories
 
