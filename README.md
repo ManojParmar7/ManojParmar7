@@ -76,7 +76,7 @@ A reusable UI component library for modern e-commerce applications.
 
 ---
 
-### 📊 GitHub Analytics
+[### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManojParmar7&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
@@ -118,7 +118,7 @@ A reusable UI component library for modern e-commerce applications.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManojParmar7&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
-
+](https://github-profile-trophy.vercel.app/?username=ManojParmar7)
 
 ### 📫 Connect With Me
 
