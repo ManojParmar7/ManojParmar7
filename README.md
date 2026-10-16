@@ -84,10 +84,41 @@ A reusable UI component library for modern e-commerce applications.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ManojParmar7&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=ManojParmar7&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
----
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManojParmar7&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManojParmar7&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+### 📁 My Repositories
+
+<p align="center">
+  <a href="https://github.com/ManojParmar7?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-14-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/ManojParmar7?tab=followers">
+    <img src="https://img.shields.io/github/followers/ManojParmar7?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/ManojParmar7?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ManojParmar7?style=for-the-badge&logo=github&label=Stars" />
+  </a>
+</p>
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManojParmar7&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</p>
+
 
 ### 📫 Connect With Me
 
