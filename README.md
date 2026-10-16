@@ -1,22 +1,71 @@
-## Hey 👋, This is Manoj Parmar.
+# 👋 Hi, I'm Manoj Parmar
 
-[![Gmail Badge](https://img.shields.io/badge/-manojparmar6161@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:manojparmar6161@gmail.com)](mailto:manojparmar6161@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-manojparmar-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://https://in.linkedin.com/in/manoj-parmar-267777167/)](https://in.linkedin.com/in/manoj-parmar-267777167)  [![Github Badge](https://img.shields.io/badge/-manojparmar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/manojparmar7)](https://www.github.com/manojparmar7) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://manojparmar.onrender.com/)](https://manojparmar.onrender.com/) 
-<p align='left'>
-  I'm a MERN Stack Web Developer
-  
-  ![ProgrammerCycleGIF](https://user-images.githubusercontent.com/53113741/209103074-3ffab3db-14f2-4bd4-9ee1-032b5b290a70.gif)
+### Senior Full Stack Developer | Cloud & DevOps | AI Enthusiast 🚀
 
-  
-  - 🔭 I’m currently working on <b> Javascript , Python, Typescript,ReactJS,Next js NodeJS, ExpressJS, MongoDB, CSS, HTML, Bootstrap, MySql, sequelize. Graphql </>
-  - 👯 I’m looking to collaborate on web development.
-  - 📫 How to reach me: <a href='https://in.linkedin.com/in/manoj-parmar-267777167/'>LinkedIn</a> or <a href="mailto:manojparmar6161@gmail.com">Gmail</a>
+Full Stack Developer with **5+ years of experience** building scalable web applications, REST APIs, and reusable UI component libraries. Passionate about cloud technologies, automation, AI integration, and modern software architecture.
 
-  
-![317756_badge_css_css3_achievement_award_icon](https://user-images.githubusercontent.com/53113741/209101395-0aff894c-cca8-45d7-8d60-0f99f1a89a91.png)
-![3069649_circle_html5_programming_round icon_icon](https://user-images.githubusercontent.com/53113741/209101398-595faf3c-4b93-40a6-8f1f-12913b894980.png)
-![3069651_circle_js_node_node js_programming_icon](https://user-images.githubusercontent.com/53113741/209101401-ff37045b-cc07-4feb-a7af-3a34cba69bb4.png)
-![1174949_js_react js_logo_react_react native_icon](https://user-images.githubusercontent.com/53113741/209101405-691d8ef3-82ec-4bc3-b8fd-ad8bffe964c5.png)
-![1012822_code_development_logo_mongodb_programming_icon](https://user-images.githubusercontent.com/53113741/209101406-af9ee716-ab73-44e6-a5ce-febe7c04d1e1.png)
-![652581_code_command_develop_javascript_language_icon](https://user-images.githubusercontent.com/53113741/209101408-bd340569-8e67-4bf4-a273-22147a3c9e66.png)
+- 💻 **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js, Python, REST APIs, GraphQL
+- 🗄️ **Databases:** MongoDB, MySQL, PostgreSQL, Prisma, Sequelize
+- ☁️ **Cloud & DevOps:** AWS, Docker, Linux, CI/CD, GitHub Actions
+- 🤖 **AI & Emerging Tech:** LLMs, AI Agents, Model Context Protocol (MCP), AI Tool Integration
+- 📦 **Open Source:** Creator of [@manojparmar/commerce-ui](https://www.npmjs.com/package/@manojparmar/commerce-ui)
 
+---
+
+### 🛠️ Tech Stack
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Database, Cloud & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI & Automation**
+
+![AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6E56CF?style=flat-square)
+
+---
+
+### 🚀 Featured Project
+
+**[Commerce UI — NPM Component Library](https://www.npmjs.com/package/@manojparmar/commerce-ui)**
+
+A reusable UI component library designed for modern e-commerce applications.
+
+- 📦 [View on NPM](https://www.npmjs.com/package/@manojparmar/commerce-ui)
+- 📚 [Explore Storybook](https://commerce-ui.onrender.com/)
+
+---
+
+### 📊 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojparmar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojparmar&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 📫 Let's Connect
+
+- 📧 **Email:** [manojparmar6161@gmail.com](mailto:manojparmar6161@gmail.com)
+- 📦 **NPM:** [@manojparmar](https://www.npmjs.com/~manojparmar)
+- 💼 **LinkedIn:** Add your LinkedIn profile URL
+- 🌐 **Portfolio:** https://manojparmar.com
+
+---
+
+⭐ *Building scalable applications, exploring AI, and creating tools that help developers build better software.*
